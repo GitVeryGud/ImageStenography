@@ -1,10 +1,3 @@
-/*
-   Team Members:
-   - Guilherme de Souza Barci
-   - Samuel Santos Ferraz
-   - Enzo José Stella Costa
- */
-
 package img;
 import static img.Steganography.*;
 
